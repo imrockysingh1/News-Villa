@@ -33,9 +33,6 @@ Credits
 - Icons used in this app are from OpenWeatherMap and other sources.
 - This app was built with React and uses the OpenWeatherMap API.
 
-License
-
-This project is licensed under the MIT License. See LICENSE.txt for details.
 
 Contact
 
